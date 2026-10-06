@@ -1,6 +1,3 @@
-Metric,Value
-Accuracy,0.7947019867549668
-Precision,0.66
-Recall,0.4697508896797153
-F1,0.5488565488565489
-ROC-AUC,0.8426275819055655
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cbe729ee347728985732c139f47152fa2f7639cf3d86b348e0b5df9ca20e2e1
+size 137
